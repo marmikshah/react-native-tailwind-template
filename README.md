@@ -1,6 +1,12 @@
 # React Native + Nativewind
 
-This is just a template I intend to use for my react native projects. 
-It has all the necessary setup to get Tailwind (Nativewind) working.
+This is a template containing all the setup performed to get Expo + Nativewind working.
+I intend to use this for my react native projects but incase you wish to use, please clone and change the app name to your desired value in [app.json](./app.json)
 
-To use this, please clone and change the app name to your desired value in [app.json](./app.json)
+## Start Command
+
+```bash
+npx expo start -c
+```
+
+For more information please refer to [Expo](https://expo.dev/)
