@@ -6,6 +6,7 @@ I intend to use this for my react native projects but incase you wish to use, pl
 ## Start Command
 
 ```bash
+npm i
 npx expo start -c
 ```
 
